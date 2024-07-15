@@ -31,7 +31,7 @@
     "ag-grid-enterprise": "^29.0.0",
     "ag-grid-vue3": "^29.0.0",
     "ip": "^1.1.8",
-    "nuxt": "npm:nuxt3@latest",
+    "nuxt": "^19.0.0",
     "nuxt-icon": "^0.2.7",
     "prettier": "^2.8.3",
     "stripe": "^11.7.0",
